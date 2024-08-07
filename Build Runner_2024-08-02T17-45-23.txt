@@ -1,0 +1,188 @@
+
+Showing Recent Issues
+
+Build target SDWebImage-SDWebImage of project Pods with configuration Debug
+/Users/cepl/Desktop/woloo janitor/Woloo-Janitor-Flutter/ios/Pods/Pods.xcodeproj: warning: The iOS Simulator deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 9.0, but the range of supported deployment target versions is 12.0 to 17.5.99. (in target 'SDWebImage-SDWebImage' from project 'Pods')
+
+
+/Users/cepl/Desktop/woloo janitor/Woloo-Janitor-Flutter/ios/Pods/Pods.xcodeproj: The iOS Simulator deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 9.0, but the range of supported deployment target versions is 12.0 to 17.5.99.
+
+
+Build target SDWebImage of project Pods with configuration Debug
+/Users/cepl/Desktop/woloo janitor/Woloo-Janitor-Flutter/ios/Pods/Pods.xcodeproj: warning: The iOS Simulator deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 9.0, but the range of supported deployment target versions is 12.0 to 17.5.99. (in target 'SDWebImage' from project 'Pods')
+
+
+/Users/cepl/Desktop/woloo janitor/Woloo-Janitor-Flutter/ios/Pods/Pods.xcodeproj: The iOS Simulator deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 9.0, but the range of supported deployment target versions is 12.0 to 17.5.99.
+
+
+Build target SwiftyGif of project Pods with configuration Debug
+/Users/cepl/Desktop/woloo janitor/Woloo-Janitor-Flutter/ios/Pods/Pods.xcodeproj: warning: The iOS Simulator deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 9.0, but the range of supported deployment target versions is 12.0 to 17.5.99. (in target 'SwiftyGif' from project 'Pods')
+
+
+/Users/cepl/Desktop/woloo janitor/Woloo-Janitor-Flutter/ios/Pods/Pods.xcodeproj: The iOS Simulator deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 9.0, but the range of supported deployment target versions is 12.0 to 17.5.99.
+
+
+Build target DKPhotoGallery-DKPhotoGallery of project Pods with configuration Debug
+/Users/cepl/Desktop/woloo janitor/Woloo-Janitor-Flutter/ios/Pods/Pods.xcodeproj: warning: The iOS Simulator deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 9.0, but the range of supported deployment target versions is 12.0 to 17.5.99. (in target 'DKPhotoGallery-DKPhotoGallery' from project 'Pods')
+
+
+/Users/cepl/Desktop/woloo janitor/Woloo-Janitor-Flutter/ios/Pods/Pods.xcodeproj: The iOS Simulator deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 9.0, but the range of supported deployment target versions is 12.0 to 17.5.99.
+
+
+Build target DKPhotoGallery of project Pods with configuration Debug
+/Users/cepl/Desktop/woloo janitor/Woloo-Janitor-Flutter/ios/Pods/Pods.xcodeproj: warning: The iOS Simulator deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 9.0, but the range of supported deployment target versions is 12.0 to 17.5.99. (in target 'DKPhotoGallery' from project 'Pods')
+
+
+/Users/cepl/Desktop/woloo janitor/Woloo-Janitor-Flutter/ios/Pods/Pods.xcodeproj: The iOS Simulator deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 9.0, but the range of supported deployment target versions is 12.0 to 17.5.99.
+
+
+Build target DKImagePickerController-DKImagePickerController of project Pods with configuration Debug
+/Users/cepl/Desktop/woloo janitor/Woloo-Janitor-Flutter/ios/Pods/Pods.xcodeproj: warning: The iOS Simulator deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 9.0, but the range of supported deployment target versions is 12.0 to 17.5.99. (in target 'DKImagePickerController-DKImagePickerController' from project 'Pods')
+
+
+/Users/cepl/Desktop/woloo janitor/Woloo-Janitor-Flutter/ios/Pods/Pods.xcodeproj: The iOS Simulator deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 9.0, but the range of supported deployment target versions is 12.0 to 17.5.99.
+
+
+Build target DKImagePickerController of project Pods with configuration Debug
+/Users/cepl/Desktop/woloo janitor/Woloo-Janitor-Flutter/ios/Pods/Pods.xcodeproj: warning: The iOS Simulator deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 9.0, but the range of supported deployment target versions is 12.0 to 17.5.99. (in target 'DKImagePickerController' from project 'Pods')
+
+
+/Users/cepl/Desktop/woloo janitor/Woloo-Janitor-Flutter/ios/Pods/Pods.xcodeproj: The iOS Simulator deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 9.0, but the range of supported deployment target versions is 12.0 to 17.5.99.
+
+
+Build target FMDB of project Pods with configuration Debug
+/Users/cepl/Desktop/woloo janitor/Woloo-Janitor-Flutter/ios/Pods/Pods.xcodeproj: warning: The iOS Simulator deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 9.0, but the range of supported deployment target versions is 12.0 to 17.5.99. (in target 'FMDB' from project 'Pods')
+
+
+/Users/cepl/Desktop/woloo janitor/Woloo-Janitor-Flutter/ios/Pods/Pods.xcodeproj: The iOS Simulator deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 9.0, but the range of supported deployment target versions is 12.0 to 17.5.99.
+
+
+Build target PromisesObjC of project Pods with configuration Debug
+/Users/cepl/Desktop/woloo janitor/Woloo-Janitor-Flutter/ios/Pods/Pods.xcodeproj: warning: The iOS Simulator deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 9.0, but the range of supported deployment target versions is 12.0 to 17.5.99. (in target 'PromisesObjC' from project 'Pods')
+
+
+/Users/cepl/Desktop/woloo janitor/Woloo-Janitor-Flutter/ios/Pods/Pods.xcodeproj: The iOS Simulator deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 9.0, but the range of supported deployment target versions is 12.0 to 17.5.99.
+
+
+Build target GoogleUtilities of project Pods with configuration Debug
+/Users/cepl/Desktop/woloo janitor/Woloo-Janitor-Flutter/ios/Pods/Pods.xcodeproj: warning: The iOS Simulator deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 9.0, but the range of supported deployment target versions is 12.0 to 17.5.99. (in target 'GoogleUtilities' from project 'Pods')
+
+
+/Users/cepl/Desktop/woloo janitor/Woloo-Janitor-Flutter/ios/Pods/Pods.xcodeproj: The iOS Simulator deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 9.0, but the range of supported deployment target versions is 12.0 to 17.5.99.
+
+
+Build target FirebaseCoreInternal of project Pods with configuration Debug
+/Users/cepl/Desktop/woloo janitor/Woloo-Janitor-Flutter/ios/Pods/Pods.xcodeproj: warning: The iOS Simulator deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 10.0, but the range of supported deployment target versions is 12.0 to 17.5.99. (in target 'FirebaseCoreInternal' from project 'Pods')
+
+
+/Users/cepl/Desktop/woloo janitor/Woloo-Janitor-Flutter/ios/Pods/Pods.xcodeproj: The iOS Simulator deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 10.0, but the range of supported deployment target versions is 12.0 to 17.5.99.
+
+
+Build target FirebaseCore of project Pods with configuration Debug
+/Users/cepl/Desktop/woloo janitor/Woloo-Janitor-Flutter/ios/Pods/Pods.xcodeproj: warning: The iOS Simulator deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 10.0, but the range of supported deployment target versions is 12.0 to 17.5.99. (in target 'FirebaseCore' from project 'Pods')
+
+
+/Users/cepl/Desktop/woloo janitor/Woloo-Janitor-Flutter/ios/Pods/Pods.xcodeproj: The iOS Simulator deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 10.0, but the range of supported deployment target versions is 12.0 to 17.5.99.
+
+
+Build target FirebaseInstallations of project Pods with configuration Debug
+/Users/cepl/Desktop/woloo janitor/Woloo-Janitor-Flutter/ios/Pods/Pods.xcodeproj: warning: The iOS Simulator deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 10.0, but the range of supported deployment target versions is 12.0 to 17.5.99. (in target 'FirebaseInstallations' from project 'Pods')
+
+
+/Users/cepl/Desktop/woloo janitor/Woloo-Janitor-Flutter/ios/Pods/Pods.xcodeproj: The iOS Simulator deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 10.0, but the range of supported deployment target versions is 12.0 to 17.5.99.
+
+
+Build target FirebaseCoreExtension of project Pods with configuration Debug
+/Users/cepl/Desktop/woloo janitor/Woloo-Janitor-Flutter/ios/Pods/Pods.xcodeproj: warning: The iOS Simulator deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 10.0, but the range of supported deployment target versions is 12.0 to 17.5.99. (in target 'FirebaseCoreExtension' from project 'Pods')
+
+
+/Users/cepl/Desktop/woloo janitor/Woloo-Janitor-Flutter/ios/Pods/Pods.xcodeproj: The iOS Simulator deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 10.0, but the range of supported deployment target versions is 12.0 to 17.5.99.
+
+
+Build target nanopb of project Pods with configuration Debug
+/Users/cepl/Desktop/woloo janitor/Woloo-Janitor-Flutter/ios/Pods/Pods.xcodeproj: warning: The iOS Simulator deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 9.0, but the range of supported deployment target versions is 12.0 to 17.5.99. (in target 'nanopb' from project 'Pods')
+
+
+/Users/cepl/Desktop/woloo janitor/Woloo-Janitor-Flutter/ios/Pods/Pods.xcodeproj: The iOS Simulator deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 9.0, but the range of supported deployment target versions is 12.0 to 17.5.99.
+
+
+Build target GoogleDataTransport of project Pods with configuration Debug
+/Users/cepl/Desktop/woloo janitor/Woloo-Janitor-Flutter/ios/Pods/Pods.xcodeproj: warning: The iOS Simulator deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 9.0, but the range of supported deployment target versions is 12.0 to 17.5.99. (in target 'GoogleDataTransport' from project 'Pods')
+
+
+/Users/cepl/Desktop/woloo janitor/Woloo-Janitor-Flutter/ios/Pods/Pods.xcodeproj: The iOS Simulator deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 9.0, but the range of supported deployment target versions is 12.0 to 17.5.99.
+
+
+Build target PromisesSwift of project Pods with configuration Debug
+/Users/cepl/Desktop/woloo janitor/Woloo-Janitor-Flutter/ios/Pods/Pods.xcodeproj: warning: The iOS Simulator deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 9.0, but the range of supported deployment target versions is 12.0 to 17.5.99. (in target 'PromisesSwift' from project 'Pods')
+
+
+/Users/cepl/Desktop/woloo janitor/Woloo-Janitor-Flutter/ios/Pods/Pods.xcodeproj: The iOS Simulator deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 9.0, but the range of supported deployment target versions is 12.0 to 17.5.99.
+
+
+Build target FirebaseSessions of project Pods with configuration Debug
+/Users/cepl/Desktop/woloo janitor/Woloo-Janitor-Flutter/ios/Pods/Pods.xcodeproj: warning: The iOS Simulator deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 11.0, but the range of supported deployment target versions is 12.0 to 17.5.99. (in target 'FirebaseSessions' from project 'Pods')
+
+
+/Users/cepl/Desktop/woloo janitor/Woloo-Janitor-Flutter/ios/Pods/Pods.xcodeproj: The iOS Simulator deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 11.0, but the range of supported deployment target versions is 12.0 to 17.5.99.
+
+
+Build target FirebaseCrashlytics of project Pods with configuration Debug
+/Users/cepl/Desktop/woloo janitor/Woloo-Janitor-Flutter/ios/Pods/Pods.xcodeproj: warning: The iOS Simulator deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 11.0, but the range of supported deployment target versions is 12.0 to 17.5.99. (in target 'FirebaseCrashlytics' from project 'Pods')
+
+
+/Users/cepl/Desktop/woloo janitor/Woloo-Janitor-Flutter/ios/Pods/Pods.xcodeproj: The iOS Simulator deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 11.0, but the range of supported deployment target versions is 12.0 to 17.5.99.
+
+Ld /Users/cepl/Library/Developer/Xcode/DerivedData/Runner-grbbbxajdaranxepoqdeangcmsyf/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCrashlytics.build/Objects-normal/arm64/Binary/FirebaseCrashlytics normal arm64 (in target 'FirebaseCrashlytics' from project 'Pods')
+    cd /Users/cepl/Desktop/woloo\ janitor/Woloo-Janitor-Flutter/ios/Pods
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -Xlinker -reproducible -target arm64-apple-ios11.0-simulator -dynamiclib -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator17.5.sdk -O0 -L/Users/cepl/Library/Developer/Xcode/DerivedData/Runner-grbbbxajdaranxepoqdeangcmsyf/Build/Intermediates.noindex/EagerLinkingTBDs/Debug-iphonesimulator -L/Users/cepl/Library/Developer/Xcode/DerivedData/Runner-grbbbxajdaranxepoqdeangcmsyf/Build/Products/Debug-iphonesimulator/FirebaseCrashlytics -F/Users/cepl/Library/Developer/Xcode/DerivedData/Runner-grbbbxajdaranxepoqdeangcmsyf/Build/Intermediates.noindex/EagerLinkingTBDs/Debug-iphonesimulator -F/Users/cepl/Library/Developer/Xcode/DerivedData/Runner-grbbbxajdaranxepoqdeangcmsyf/Build/Products/Debug-iphonesimulator/FirebaseCrashlytics -F/Users/cepl/Library/Developer/Xcode/DerivedData/Runner-grbbbxajdaranxepoqdeangcmsyf/Build/Products/Debug-iphonesimulator/FirebaseCore -F/Users/cepl/Library/Developer/Xcode/DerivedData/Runner-grbbbxajdaranxepoqdeangcmsyf/Build/Products/Debug-iphonesimulator/FirebaseCoreExtension -F/Users/cepl/Library/Developer/Xcode/DerivedData/Runner-grbbbxajdaranxepoqdeangcmsyf/Build/Products/Debug-iphonesimulator/FirebaseCoreInternal -F/Users/cepl/Library/Developer/Xcode/DerivedData/Runner-grbbbxajdaranxepoqdeangcmsyf/Build/Products/Debug-iphonesimulator/FirebaseInstallations -F/Users/cepl/Library/Developer/Xcode/DerivedData/Runner-grbbbxajdaranxepoqdeangcmsyf/Build/Products/Debug-iphonesimulator/FirebaseSessions -F/Users/cepl/Library/Developer/Xcode/DerivedData/Runner-grbbbxajdaranxepoqdeangcmsyf/Build/Products/Debug-iphonesimulator/GoogleDataTransport -F/Users/cepl/Library/Developer/Xcode/DerivedData/Runner-grbbbxajdaranxepoqdeangcmsyf/Build/Products/Debug-iphonesimulator/GoogleUtilities -F/Users/cepl/Library/Developer/Xcode/DerivedData/Runner-grbbbxajdaranxepoqdeangcmsyf/Build/Products/Debug-iphonesimulator/PromisesObjC -F/Users/cepl/Library/Developer/Xcode/DerivedData/Runner-grbbbxajdaranxepoqdeangcmsyf/Build/Products/Debug-iphonesimulator/PromisesSwift -F/Users/cepl/Library/Developer/Xcode/DerivedData/Runner-grbbbxajdaranxepoqdeangcmsyf/Build/Products/Debug-iphonesimulator/nanopb -filelist /Users/cepl/Library/Developer/Xcode/DerivedData/Runner-grbbbxajdaranxepoqdeangcmsyf/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCrashlytics.build/Objects-normal/arm64/FirebaseCrashlytics.LinkFileList -install_name @rpath/FirebaseCrashlytics.framework/FirebaseCrashlytics -Xlinker -rpath -Xlinker @executable_path/Frameworks -Xlinker -rpath -Xlinker @loader_path/Frameworks -dead_strip -Xlinker -object_path_lto -Xlinker /Users/cepl/Library/Developer/Xcode/DerivedData/Runner-grbbbxajdaranxepoqdeangcmsyf/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCrashlytics.build/Objects-normal/arm64/FirebaseCrashlytics_lto.o -Xlinker -export_dynamic -Xlinker -no_deduplicate -Xlinker -objc_abi_version -Xlinker 2 -stdlib\=libc++ -fobjc-arc -fobjc-link-runtime -lc++ -lz -framework CoreTelephony -framework FBLPromises -framework FirebaseCore -framework FirebaseInstallations -framework FirebaseSessions -framework Foundation -framework GoogleDataTransport -framework GoogleUtilities -framework Security -framework SystemConfiguration -framework UIKit -framework nanopb -framework Foundation -framework Security -framework SystemConfiguration -Xlinker -no_adhoc_codesign -compatibility_version 1 -current_version 1 -Xlinker -dependency_info -Xlinker /Users/cepl/Library/Developer/Xcode/DerivedData/Runner-grbbbxajdaranxepoqdeangcmsyf/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCrashlytics.build/Objects-normal/arm64/FirebaseCrashlytics_dependency_info.dat -o /Users/cepl/Library/Developer/Xcode/DerivedData/Runner-grbbbxajdaranxepoqdeangcmsyf/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCrashlytics.build/Objects-normal/arm64/Binary/FirebaseCrashlytics
+
+ld: warning: ignoring duplicate libraries: '-lc++'
+
+Ignoring duplicate libraries: '-lc++'
+
+Ld /Users/cepl/Library/Developer/Xcode/DerivedData/Runner-grbbbxajdaranxepoqdeangcmsyf/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCrashlytics.build/Objects-normal/x86_64/Binary/FirebaseCrashlytics normal x86_64 (in target 'FirebaseCrashlytics' from project 'Pods')
+    cd /Users/cepl/Desktop/woloo\ janitor/Woloo-Janitor-Flutter/ios/Pods
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -Xlinker -reproducible -target x86_64-apple-ios11.0-simulator -dynamiclib -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator17.5.sdk -O0 -L/Users/cepl/Library/Developer/Xcode/DerivedData/Runner-grbbbxajdaranxepoqdeangcmsyf/Build/Intermediates.noindex/EagerLinkingTBDs/Debug-iphonesimulator -L/Users/cepl/Library/Developer/Xcode/DerivedData/Runner-grbbbxajdaranxepoqdeangcmsyf/Build/Products/Debug-iphonesimulator/FirebaseCrashlytics -F/Users/cepl/Library/Developer/Xcode/DerivedData/Runner-grbbbxajdaranxepoqdeangcmsyf/Build/Intermediates.noindex/EagerLinkingTBDs/Debug-iphonesimulator -F/Users/cepl/Library/Developer/Xcode/DerivedData/Runner-grbbbxajdaranxepoqdeangcmsyf/Build/Products/Debug-iphonesimulator/FirebaseCrashlytics -F/Users/cepl/Library/Developer/Xcode/DerivedData/Runner-grbbbxajdaranxepoqdeangcmsyf/Build/Products/Debug-iphonesimulator/FirebaseCore -F/Users/cepl/Library/Developer/Xcode/DerivedData/Runner-grbbbxajdaranxepoqdeangcmsyf/Build/Products/Debug-iphonesimulator/FirebaseCoreExtension -F/Users/cepl/Library/Developer/Xcode/DerivedData/Runner-grbbbxajdaranxepoqdeangcmsyf/Build/Products/Debug-iphonesimulator/FirebaseCoreInternal -F/Users/cepl/Library/Developer/Xcode/DerivedData/Runner-grbbbxajdaranxepoqdeangcmsyf/Build/Products/Debug-iphonesimulator/FirebaseInstallations -F/Users/cepl/Library/Developer/Xcode/DerivedData/Runner-grbbbxajdaranxepoqdeangcmsyf/Build/Products/Debug-iphonesimulator/FirebaseSessions -F/Users/cepl/Library/Developer/Xcode/DerivedData/Runner-grbbbxajdaranxepoqdeangcmsyf/Build/Products/Debug-iphonesimulator/GoogleDataTransport -F/Users/cepl/Library/Developer/Xcode/DerivedData/Runner-grbbbxajdaranxepoqdeangcmsyf/Build/Products/Debug-iphonesimulator/GoogleUtilities -F/Users/cepl/Library/Developer/Xcode/DerivedData/Runner-grbbbxajdaranxepoqdeangcmsyf/Build/Products/Debug-iphonesimulator/PromisesObjC -F/Users/cepl/Library/Developer/Xcode/DerivedData/Runner-grbbbxajdaranxepoqdeangcmsyf/Build/Products/Debug-iphonesimulator/PromisesSwift -F/Users/cepl/Library/Developer/Xcode/DerivedData/Runner-grbbbxajdaranxepoqdeangcmsyf/Build/Products/Debug-iphonesimulator/nanopb -filelist /Users/cepl/Library/Developer/Xcode/DerivedData/Runner-grbbbxajdaranxepoqdeangcmsyf/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCrashlytics.build/Objects-normal/x86_64/FirebaseCrashlytics.LinkFileList -install_name @rpath/FirebaseCrashlytics.framework/FirebaseCrashlytics -Xlinker -rpath -Xlinker @executable_path/Frameworks -Xlinker -rpath -Xlinker @loader_path/Frameworks -dead_strip -Xlinker -object_path_lto -Xlinker /Users/cepl/Library/Developer/Xcode/DerivedData/Runner-grbbbxajdaranxepoqdeangcmsyf/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCrashlytics.build/Objects-normal/x86_64/FirebaseCrashlytics_lto.o -Xlinker -export_dynamic -Xlinker -no_deduplicate -Xlinker -objc_abi_version -Xlinker 2 -stdlib\=libc++ -fobjc-arc -fobjc-link-runtime -lc++ -lz -framework CoreTelephony -framework FBLPromises -framework FirebaseCore -framework FirebaseInstallations -framework FirebaseSessions -framework Foundation -framework GoogleDataTransport -framework GoogleUtilities -framework Security -framework SystemConfiguration -framework UIKit -framework nanopb -framework Foundation -framework Security -framework SystemConfiguration -Xlinker -no_adhoc_codesign -compatibility_version 1 -current_version 1 -Xlinker -dependency_info -Xlinker /Users/cepl/Library/Developer/Xcode/DerivedData/Runner-grbbbxajdaranxepoqdeangcmsyf/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCrashlytics.build/Objects-normal/x86_64/FirebaseCrashlytics_dependency_info.dat -o /Users/cepl/Library/Developer/Xcode/DerivedData/Runner-grbbbxajdaranxepoqdeangcmsyf/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCrashlytics.build/Objects-normal/x86_64/Binary/FirebaseCrashlytics
+
+ld: warning: ignoring duplicate libraries: '-lc++'
+
+Ignoring duplicate libraries: '-lc++'
+
+
+Build target FirebaseMessaging of project Pods with configuration Debug
+/Users/cepl/Desktop/woloo janitor/Woloo-Janitor-Flutter/ios/Pods/Pods.xcodeproj: warning: The iOS Simulator deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 11.0, but the range of supported deployment target versions is 12.0 to 17.5.99. (in target 'FirebaseMessaging' from project 'Pods')
+
+
+/Users/cepl/Desktop/woloo janitor/Woloo-Janitor-Flutter/ios/Pods/Pods.xcodeproj: The iOS Simulator deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 11.0, but the range of supported deployment target versions is 12.0 to 17.5.99.
+
+
+Build target ReachabilitySwift of project Pods with configuration Debug
+/Users/cepl/Desktop/woloo janitor/Woloo-Janitor-Flutter/ios/Pods/Pods.xcodeproj: warning: The iOS Simulator deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 9.0, but the range of supported deployment target versions is 12.0 to 17.5.99. (in target 'ReachabilitySwift' from project 'Pods')
+
+
+/Users/cepl/Desktop/woloo janitor/Woloo-Janitor-Flutter/ios/Pods/Pods.xcodeproj: The iOS Simulator deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 9.0, but the range of supported deployment target versions is 12.0 to 17.5.99.
+
+
+Build target Runner of project Runner with configuration Debug
+note: Run script build phase 'Run Script' will be run during every build because the option to run the script phase "Based on dependency analysis" is unchecked. (in target 'Runner' from project 'Runner')
+note: Run script build phase 'Thin Binary' will be run during every build because the option to run the script phase "Based on dependency analysis" is unchecked. (in target 'Runner' from project 'Runner')
+warning: Run script build phase '[firebase_crashlytics] Crashlytics Upload Symbols' will be run during every build because it does not specify any outputs. To address this warning, either add output dependencies to the script phase, or configure it to run in every build by unchecking "Based on dependency analysis" in the script phase. (in target 'Runner' from project 'Runner')
+
+
+Run script build phase 'Run Script' will be run during every build because the option to run the script phase "Based on dependency analysis" is unchecked.
+
+Run script build phase 'Thin Binary' will be run during every build because the option to run the script phase "Based on dependency analysis" is unchecked.
+
+Run script build phase '[firebase_crashlytics] Crashlytics Upload Symbols' will be run during every build because it does not specify any outputs. To address this warning, either add output dependencies to the script phase, or configure it to run in every build by unchecking "Based on dependency analysis" in the script phase.
+
+
+Build target Firebase of project Pods with configuration Debug
+/Users/cepl/Desktop/woloo janitor/Woloo-Janitor-Flutter/ios/Pods/Pods.xcodeproj: warning: The iOS Simulator deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 11.0, but the range of supported deployment target versions is 12.0 to 17.5.99. (in target 'Firebase' from project 'Pods')
+
+
+/Users/cepl/Desktop/woloo janitor/Woloo-Janitor-Flutter/ios/Pods/Pods.xcodeproj: The iOS Simulator deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 11.0, but the range of supported deployment target versions is 12.0 to 17.5.99.
+
+
+
+Build succeeded    02/08/24, 5:45 PM    17.2 seconds

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "195127682739",
+    "project_id": "wolooiot",
+    "storage_bucket": "wolooiot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195127682739:android:f252d09e124e7729a632c6",
+        "android_client_info": {
+          "package_name": "com.example.woloo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXGbZqBUjAMzweCIGZOCwrAiPmUDs-2ZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
